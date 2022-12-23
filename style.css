@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: 20px;
+    color: white;
+}
+
+.social {
+     margin: 30px;
+
+}
+
+header {
+    position: fixed;
+    top: 0px;
+}
+
+nav {
+    position: fixed;
+    top: 30px;
+}
+
+.link-header {
+    text-decoration: none;
+    color: rgb(170, 182, 255);
+    font-size: 24px;
+}
+
+p {
+ color: white;
+ text-align: center;
+}
+
+.ret a {
+    text-decoration: none;
+    color: rgb(170, 182, 255);
+    font-size: 18px;
+}
+
+li {
+ color:white ;
+ font-size: 21px;
+}
+
+.link-text {
+    text-decoration: none;
+    color: rgb(81, 251, 69);
+}
